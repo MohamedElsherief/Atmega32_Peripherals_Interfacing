@@ -1,0 +1,1 @@
+src/MCAL/UART/UART.o src/MCAL/UART/UART.o: ../src/MCAL/UART/UART.c
